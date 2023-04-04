@@ -65,6 +65,10 @@ header p {
     margin-right: 16px;
 }
 
+.checked {
+    border: 5px solid #32b72f;
+}
+
 .dish img {
     border-radius: 4px;
     
@@ -92,6 +96,100 @@ header p {
 }
 
 .dish p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+    color: black;
+}
+
+.drink {
+    width: 172px;
+    height: 216px;
+
+    background-color: white;
+    box-shadow: 0px 0px 10px -4px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+
+    padding: 18px 14px 14px 14px;
+
+    margin-right: 16px;
+}
+
+.drink img {
+    border-radius: 4px;
+    
+    margin-bottom: 8px;
+}
+
+.drink h3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+
+    color: #333333;
+
+    margin-bottom: 10px;
+}
+
+.drink h4 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+
+    color: #a6a6a6;
+
+    margin-bottom: 10px;
+}
+
+.drink p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+    color: black;
+}
+
+.dessert {
+    width: 172px;
+    height: 216px;
+
+    background-color: white;
+    box-shadow: 0px 0px 10px -4px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+
+    padding: 18px 14px 14px 14px;
+
+    margin-right: 16px;
+}
+
+.dessert img {
+    border-radius: 4px;
+    
+    margin-bottom: 8px;
+}
+
+.dessert h3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+
+    color: #333333;
+
+    margin-bottom: 10px;
+}
+
+.dessert h4 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+
+    color: #a6a6a6;
+
+    margin-bottom: 10px;
+}
+
+.dessert p {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
